@@ -1,0 +1,8 @@
+pandas
+pyreadr
+matplotlib
+seaborn
+scipy
+scikit-learn
+streamlit
+langchain-google-genai

@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Secrets: the Gemini API key must never land on GitHub
+.env
+.streamlit/secrets.toml
+
+# Generated data (can be rebuilt from data/raw)
+data/processed/
+
+# macOS
+.DS_Store
